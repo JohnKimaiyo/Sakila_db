@@ -2,3 +2,5 @@
 
 
 SELECT max(rental_rate) FROM sakila.film;
+
+SELECT max(replacement_cost) FROM sakila.film;
