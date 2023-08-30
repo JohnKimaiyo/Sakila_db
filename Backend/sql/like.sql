@@ -12,3 +12,6 @@ WHERE (city) like '___';
 
 SELECT * FROM sakila.country
 WHERE (country) like '____';
+
+SELECT * FROM sakila.customer
+WHERE (first_name)  like'____';
