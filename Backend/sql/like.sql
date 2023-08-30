@@ -6,3 +6,6 @@ WHERE (district) like '___';
 
 SELECT * FROM sakila.category
 WHERE (name) like '_____';
+
+SELECT * FROM sakila.city
+WHERE (city) like '___';
