@@ -9,3 +9,6 @@ WHERE (name) like '_____';
 
 SELECT * FROM sakila.city
 WHERE (city) like '___';
+
+SELECT * FROM sakila.country
+WHERE (country) like '____';
